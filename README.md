@@ -10,7 +10,7 @@ If you're looking for a passionate and versatile software developer with a focus
 
 
  skills :
- - ![Next.js](https://img.icons8.com/?size=512&id=MWiBjkuHeMVq&format=png) Next.js
+ - ![Next.js](https://img.icons8.com/color/48/000000/next.png) Next.js
 - ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) Kotlin
 - ![Django](https://img.icons8.com/color/48/000000/django.png) Django
 - ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
