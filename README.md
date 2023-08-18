@@ -13,3 +13,19 @@
 📚 Open Source Enthusiast: I'm a strong advocate for open source software and actively contribute to various projects. I believe in the power of sharing knowledge and collaborating with the global developer community. You can often find me exploring GitHub, contributing to open source initiatives, and helping others through code reviews and discussions.
 
 If you're looking for a passionate and versatile software developer with a focus on web and mobile development, I'd love to connect and collaborate on exciting projects. Let's build exceptional digital experiences together! Feel free to reach out to me on GitHub or any other platform. Happy coding! ✨
+# My Skills
+
+Here are some of the skills I possess:
+
+- ![Next.js](https://img.icons8.com/color/48/000000/next-js.png) Next.js
+- ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) Kotlin
+- ![Django](https://img.icons8.com/color/48/000000/django.png) Django
+- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+- ![MERN Stack](https://img.icons8.com/color/48/000000/react-native.png) MERN Stack
+
+Feel free to explore my repositories to see projects related to these skills!
+
