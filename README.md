@@ -33,7 +33,7 @@
 <a href="https://stackoverflow.com/users/21400954/roy-matheri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21400954/roy-matheri" height="30" width="40" /></a>
 <a href="https://instagram.com/codewer0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewer0" height="30" width="40" /></a>
 <a href="https://medium.com/@weruroy347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@weruroy347" height="30" width="40" /></a>
-<a href="https://www.youtube.com/codekartel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codekartel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CodeKartel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codekartel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
