@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royweru&label=Profile%20views&color=0e75b6&style=flat" alt="royweru" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@roy_weru" target="blank"><img src="https://img.shields.io/twitter/follow/@roy_weru?logo=twitter&style=for-the-badge" alt="@roy_weru" /></a> </p>
+<p align="left"> <a href="https://twitter.com/roy_weru" target="blank"><img src="https://img.shields.io/twitter/follow/roy_weru?logo=twitter&style=for-the-badge" alt="roy_weru" /></a> </p>
 
 - 🔭 I’m currently working on [making Youtube Tutorials](https://www.youtube.com/@CodeKartel)
 
@@ -27,13 +27,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/roy_weru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/roy_weru" height="30" width="40" /></a>
-<a href="https://twitter.com/@roy_weru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@roy_weru" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/roy-matheri-59b8a5245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roy-matheri-59b8a5245/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21400954/roy-matheri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21400954/roy-matheri" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/codewer0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codewer0/" height="30" width="40" /></a>
+<a href="https://dev.to/roy_weru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="roy_weru" height="30" width="40" /></a>
+<a href="https://twitter.com/roy_weru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roy_weru" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roy-matheri-59b8a5245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy-matheri-59b8a5245" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21400954/roy-matheri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21400954/roy-matheri" height="30" width="40" /></a>
+<a href="https://instagram.com/codewer0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewer0" height="30" width="40" /></a>
 <a href="https://medium.com/@weruroy347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@weruroy347" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@codekartel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codekartel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/codekartel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codekartel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
