@@ -1,24 +1,46 @@
-👋 Hey there! I'm Roy, a passionate software developer with a keen focus on web and mobile application development. Let me tell you a bit about myself:
+<h1 align="center">Hi 👋, I'm Roy Waweru</h1>
+<h3 align="center">A passionate full stack developer from Nairobi</h3>
 
-💻 Web Development: I have a deep love for crafting robust and user-friendly web applications. From designing responsive layouts to implementing interactive features, I strive to create seamless digital experiences. I'm well-versed in front-end technologies like HTML5, CSS3,Next js,  and JavaScript, and I stay up-to-date with the latest frameworks and libraries like React and Angular.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=royweru&label=Profile%20views&color=0e75b6&style=flat" alt="royweru" /> </p>
 
-📱 Mobile Application Development: I thrive in the world of mobile app development, where I transform ideas into innovative mobile experiences. Whether it's Android or iOS, I have a solid understanding of native development, and I'm comfortable working with languages like  Kotlin. I'm also skilled in cross-platform development using frameworks such as React Native .
+<p align="left"> <a href="https://twitter.com/@roy_weru" target="blank"><img src="https://img.shields.io/twitter/follow/@roy_weru?logo=twitter&style=for-the-badge" alt="@roy_weru" /></a> </p>
 
-🌐 Full-Stack Proficiency: With my expertise in both web and mobile development, I consider myself a full-stack developer. I enjoy working on end-to-end projects, tackling challenges at every layer of the technology stack. From creating server-side APIs using frameworks like Node.js and Django, to managing databases such as MySQL and MongoDB, I can handle it all.
+- 🔭 I’m currently working on [making Youtube Tutorials](https://www.youtube.com/@CodeKartel)
 
-If you're looking for a passionate and versatile software developer with a focus on web and mobile development, I'd love to connect and collaborate on exciting projects. Let's build exceptional digital experiences together! Feel free to reach out to me on GitHub or any other platform. Happy coding! ✨
+- 🌱 I’m currently learning **React native**
 
+- 🤝 I’m looking for help with **Gighub**
 
- skills :
- - ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) Next.js
-- ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) Kotlin
-- ![Django](https://img.icons8.com/color/48/000000/django.png) Django
-- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL
-- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
-- ![MERN Stack](https://img.icons8.com/color/48/000000/react-native.png) MERN Stack
+- 👨‍💻 All of my projects are available at [https://roymatheri.vercel.app/](https://roymatheri.vercel.app/)
 
-Feel free to explore my repositories to see projects related to these skills!
+- 📝 I regularly write articles on [https://dev.to/roy_weru](https://dev.to/roy_weru)
+
+- 💬 Ask me about **Next JS, React , Djano**
+
+- 📫 How to reach me **weruroy347@gmail.com**
+
+- ⚡ Fun fact **I'm a bit controversial 🥺..**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/roy_weru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/roy_weru" height="30" width="40" /></a>
+<a href="https://twitter.com/@roy_weru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@roy_weru" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/roy-matheri-59b8a5245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roy-matheri-59b8a5245/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21400954/roy-matheri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21400954/roy-matheri" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/codewer0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codewer0/" height="30" width="40" /></a>
+<a href="https://medium.com/@weruroy347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@weruroy347" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@codekartel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codekartel" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=royweru&show_icons=true&locale=en&layout=compact" alt="royweru" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royweru&show_icons=true&locale=en" alt="royweru" /></p>
+
 
