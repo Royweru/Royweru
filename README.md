@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/roy_weru](https://dev.to/roy_weru)
 
-- 💬 Ask me about **Next JS, React , Djano**
+- 💬 Ask me about **Next JS, React , Django**
 
 - 📫 How to reach me **weruroy347@gmail.com**
 
