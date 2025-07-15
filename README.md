@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 🤝 I’m looking for help with **Gighub**
+- 🤝 I’m looking for help with **My new Speech to Text app**
 
 - 👨‍💻 All of my projects are available at [https://roymatheri.vercel.app/](https://roymatheri.vercel.app/)
 
