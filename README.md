@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **My new Speech to Text app**
 
-- 👨‍💻 All of my projects are available at [https://roymatheri.vercel.app/](https://roymatheri.vercel.app/)
-
 - 📝 I regularly write articles on [https://dev.to/roy_weru](https://dev.to/roy_weru)
 
 - 💬 Ask me about **Next JS, React , Django**
