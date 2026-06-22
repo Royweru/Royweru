@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a final-year BSc ICT student at **KCA University, Nairobi**, currently working as a full-stack developer and agentic AI engineer. My day-to-day lives at the intersection of two things: shipping reliable backend systems with **Python, FastAPI, and PostgreSQL**, and designing **LangGraph-based agentic workflows** that actually hold up outside a notebook.
+Currently working as a full-stack developer and agentic AI engineer. My day-to-day lives at the intersection of two things: shipping reliable backend systems with **Python, FastAPI, and PostgreSQL**, and designing **LangGraph-based agentic workflows** that actually hold up outside a notebook.
 
 I build end-to-end — from Next.js/TypeScript frontends down to self-managed **Hetzner VPS** infrastructure (Nginx, systemd, Certbot) — and I deploy almost everything I ship myself, no PaaS hand-holding. A lot of my work integrates with the realities of building software for the Kenyan market: **M-Pesa STK Push**, **Africa's Talking** SMS, and pluggable provider interfaces that don't lock a client into one vendor.
 
